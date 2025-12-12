@@ -7,7 +7,7 @@ I enjoy building scalable backend systems, improving system performance, and sol
 
 ### 🚀 About Me
 - 💼 Backend Developer currently working in **Accelya Solutions (Cargo Domain)**
-- 🔧 Skilled in **Java | Spring Boot | Microservices | JPA | SQL | Kafka | Docker**
+- 🔧 Skilled in **Java | Spring Boot | Microservices | JPA | SQL | Kafka | RabbitMQ |  Docker | Kubernetes**
 - 📚 Learning more about **System Design & Distributed Systems**
 - 🧠 Strong interest in clean code, performance tuning, and backend architecture
 - 📍 Based in **Navi Mumbai, India**
